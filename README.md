@@ -15,3 +15,4 @@ Provided here are SNMP Masks and Translations files to use with SRM to get you s
 </p><p>
 Once set up, you can edit the Masks to add additional collection data and you can modify the reports to add or manipulate the data to your needs.
 </p>
+<p><i><b>These files are provided as-is, no warranty.  These were created by me to support a project because EMC ViPR SRM does not natively support reporting for Dell EqualLogic Storage.</b></i></p>
