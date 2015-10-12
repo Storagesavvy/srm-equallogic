@@ -6,5 +6,13 @@
 Install:
   Please follow the instructions contained in the PDF file
 
+Prerequisites:
+  EMC ViPR SRM Installed
+  Dell EqualLogic PS Series Storage Array Installed
+  Access to the Dell EqualLogic SNMP MIBs from Dell Support
 
+What is included:
+  Provided here are SNMP Masks and Translations files to use with SRM to get you started.  These work in conjunction with the SNMP MIBs provided by Dell to collect data from the EqualLogic systems.  Also included is a basic set of reports to import into EMC ViPR SRM.  Combined these files will get you capacity and performance data in SRM for your EqualLogic systems.  
+  
+  Once set up, you can edit the Masks to add additional collection data and you can modify the reports to add or manipulate the data to your needs.
 
