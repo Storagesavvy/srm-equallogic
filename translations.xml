@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><translations>
+  <variable-specific-translations>
+    <variable-value-translation name="eqlMemberRowStatus">
+      <value-match value="createAndWait" rename="5.0"/>
+      <value-match value="createAndGo" rename="4.0"/>
+      <value-match value="notReady" rename="3.0"/>
+      <value-match value="destroy" rename="6.0"/>
+      <value-match value="active" rename="1.0"/>
+      <value-match value="notInService" rename="2.0"/>
+    </variable-value-translation>
+    <variable-value-translation name="eqliscsiVolumeAdminStatus">
+      <value-match value="offline-control" rename="5.0"/>
+      <value-match value="online-lost-cached-blocks" rename="3.0"/>
+      <value-match value="offline" rename="2.0"/>
+      <value-match value="online" rename="1.0"/>
+      <value-match value="online-control" rename="4.0"/>
+    </variable-value-translation>
+    <variable-value-translation name="eqlStoragePoolRowStatus">
+      <value-match value="createAndWait" rename="5.0"/>
+      <value-match value="createAndGo" rename="4.0"/>
+      <value-match value="notReady" rename="3.0"/>
+      <value-match value="destroy" rename="6.0"/>
+      <value-match value="active" rename="1.0"/>
+      <value-match value="notInService" rename="2.0"/>
+    </variable-value-translation>
+    <variable-value-translation name="eqlMemberState">
+      <value-match value="vacated" rename="4.0"/>
+      <value-match value="on-line" rename="1.0"/>
+      <value-match value="off-line" rename="2.0"/>
+      <value-match value="vacate" rename="3.0"/>
+    </variable-value-translation>
+    <variable-value-translation name="eqliscsiVolumeRowStatus">
+      <value-match value="createAndWait" rename="5.0"/>
+      <value-match value="destroy" rename="6.0"/>
+      <value-match value="notReady" rename="3.0"/>
+      <value-match value="createAndGo" rename="4.0"/>
+      <value-match value="active" rename="1.0"/>
+      <value-match value="notInService" rename="2.0"/>
+    </variable-value-translation>
+  </variable-specific-translations>
+</translations>
